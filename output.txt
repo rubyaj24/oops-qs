@@ -1,0 +1,2 @@
+Java I/O Streams
+Character streams simplify text processing.
