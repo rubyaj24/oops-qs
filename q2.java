@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class test2 {
+public class q2 {
     public static void main(String[] args) {
         @SuppressWarnings("ReplaceStringBufferByString")
         StringBuffer sb = new StringBuffer("aaaaaaaaaaaaaaaaabbbbcddddeeeeee");
