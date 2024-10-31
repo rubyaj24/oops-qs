@@ -1,4 +1,7 @@
-//Write a Java program which takes a sentence as string and returns a sentence on which words are reversed in order, like if the input is "Java is best programming language", the output should be "language programming best is Java".//
+// Write a Java program which takes a sentence as string and returns 
+// a sentence on which words are reversed in order, like if the input is 
+// "Java is best programming language", the output should be 
+// "language programming best is Java".
 
 
 import java.util.Scanner;
